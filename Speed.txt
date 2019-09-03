@@ -1,0 +1,12 @@
+name="SPMC Test File File"
+url="https://github.com/koying/SPMC/releases/download/16.4.2-spmc/SPMC-armeabi-v7a_16.4.2.apk"
+img="NULL"
+fanart="NULL"
+version="Location: SPMC Server"
+
+name="LibreELEC Test File"
+url="http://releases.libreelec.tv/LibreELEC.USB-SD.Creator.Linux-64bit.bin"
+img="NULL"
+fanart="NULL"
+version="Location: LibreELEC Server"
+r"
